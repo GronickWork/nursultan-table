@@ -1,0 +1,25 @@
+.table-container{
+  width: 98vw;
+  text-align: left;
+  margin: 1rem auto;
+}
+  .table {
+    width: 95vw;
+    border-collapse: collapse;
+  }
+    .table-header {
+      text-align: left;
+      font-size: 1.5rem;
+      font-weight: 700;
+    }
+    .table__gray{
+      background: #bbcece;
+      text-align: center;
+    }
+    th, td {border: 1px solid;}
+    .mark {
+      display: flex;
+      gap: 2rem;
+    }
+    .green {background: green;}
+    .opacity {opacity: 0.5;}
