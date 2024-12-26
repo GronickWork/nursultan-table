@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nursultan-table/static/css/main.f916022c.css",
+    "main.js": "/nursultan-table/static/js/main.7bbf86ef.js",
+    "static/js/488.4aae4d81.chunk.js": "/nursultan-table/static/js/488.4aae4d81.chunk.js",
+    "static/media/logo.svg": "/nursultan-table/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nursultan-table/index.html",
+    "main.f916022c.css.map": "/nursultan-table/static/css/main.f916022c.css.map",
+    "main.7bbf86ef.js.map": "/nursultan-table/static/js/main.7bbf86ef.js.map",
+    "488.4aae4d81.chunk.js.map": "/nursultan-table/static/js/488.4aae4d81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f916022c.css",
+    "static/js/main.7bbf86ef.js"
+  ]
+}
